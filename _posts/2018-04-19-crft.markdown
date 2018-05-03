@@ -13,23 +13,23 @@ Around night on 23rd it was!
 <BR>
 My semester exams were going on and next day was exam of one of the toughest paper (MicroElectronics!).
 But I was not able to concentrate much as something big was on the line. 
-Opened the Google Summer of Code Website, there was the field where you could type your name and search. I typed my name as fast as I could. But wait! No results. (Believe me, the search field for name works only if you enter your name word by word and pause). Okay then, so let’s see who were selected in my community. Hang on…. My name was the second one in the list. Wait. What?? Is it real? Did they make mistake?? It took couple of minutes to sink in and I just kept on staring my name for few seconds. Meanwhile, a G’Soc aspirant had become a G’Soc Student.
+Opened the Google Summer of Code Website, there was the field where you could type your name and search. I typed my name as fast as I could. But wait! No results. (Believe me, the search field for name works only if you enter your name word by word and pause). Okay then, so let’s see who were selected in my community. Hang on…. My name was the second one in the list. Wait. What?? Is it real? Did they make a mistake?? It took couple of minutes to sink in and I just kept on staring my name for few seconds. Meanwhile, a G’Soc aspirant had become a G’Soc Student.
 <BR> <br>
 Now let's come to what the blog is about (:P). My journey is definitely not the ideal one. <br><br>
 <b>Firstly, I started a bit late. </b>A good G'Soc aspirant
-should start very early (last by early December). I was in an internship and did'nt prioritize it either. Hence, I had to pay some price in this regard: 
+should start very early (last by early December). I was in an internship and didn't prioritize it either. Hence, I had to pay some price in this regard: 
 <font size = "5px">
  <li> There were literally nightouts everyday and stress (I should admit!)</li>
  <li> Sometimes, it became to an extent that next day I was having quiz and the day before I was working on my proposal.</li>
  So a golden advice me from is to <font color="green"><b>start as early as possible.</b></font>
  <br><br>
     <b>Proposal is the main thing!</b> It should be given a thought that G'SOC results for a particular student are only decided upon the proposal you submit and nothing else(Yes!).
-    But sometimes student make it a PR competition and focus less on quality of the proposal. In my case, my main focus was to make my proposal as good as possible. When there are so many students applying for one spot, your proposal must stand out. 
+    But sometimes students make it a PR competition and focus less on quality of the proposal. In my case, my main focus was to make my proposal as good as possible. When there are so many students applying for one spot, your proposal must stand out. 
     And kudos to my mentors here! <i>Rajath, Paavini, Shreyansh and Buddhi </i>and they were highly supportive. This led to me making my proposal complete with lots of Mocks, Flow Charts etc.
 <br>
 <BR><b>A great community. </b> Trust me when someone would be making a list of most active and helping open source communities present out there, <b><i>Systers</i></b> would be right up there. You just ask some question in a channel, in no time the thread would become 10-15 comments long. I was indeed relatively newer to opensource programming. But thanks to great people here, who helped me a lot at various stages of the proposal.
 <br><br>
 <p>So selected. <b>What would I be working on?</b>
- Well I would be contributing to a web app that would help teach prevention tips to Peace Corps volunteers in fighting malaria in their remote missions. We have already some games built. This time I would increase the no. of games and improve previous ones. We have a chatbot that currently recommends medicines and interacts with people. Our aim would be to upgrade it and handle user requests well. (i.e. making it smarter)<br><br>
+ Well I would be contributing to a web app that would help teach prevention tips to Peace Corps volunteers in fighting malaria in their remote missions. We have already some games built. This time I will increase the no. of games and improve previous ones. We have a chatbot that currently recommends medicines and interacts with people. Our aim is to upgrade it and handle user requests well, (i.e. making it smarter)<br><br>
   <i>It's definitely going to be a great journey ahead and in future blogs I'll keep you updated. So stay tuned. :D <i>
 <br><br> 
