@@ -1,43 +1,34 @@
 ---
 layout: post
-title: "Another blog"
-date: 2018-05-01
+title: "Tales f̶r̶o̶m̶ to a G'SOC Journey"
+date: 2018-05-03
 categories:
-  - Juice
+  - G'SOC 18
 description:
 image: "/assets/images/post1-1.png"
-image-sm: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfNHSqPlTHgMWawUbNwaHq0c1XMCLYR7lLL9QujkJXUFny46bAUg
+image-sm: https://cdn.tproger.ru/wp-content/uploads/2018/01/summer-of-code-cover.jpg
 ---
-{::options parse_block_html="true" /}
-`​`` html
-<a href="#">Hello world</a>
-`​``
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
-
-<p>This is the <code>Panel</code> constructor:</p>
-<pre><code>function Panel(element, canClose, closeHandler) {
-  this.element = element;
-  this.canClose = canClose;
-  this.closeHandler = function () { if (closeHandler) closeHandler() };
-}</code></pre>
-
-<!-- HTML generated using hilite.me --><div style="background: #ffffff; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;"><pre style="margin: 0; line-height: 125%"><span style="color: #008800; font-weight: bold">print</span> <span style="background-color: #fff0f0">&#39;hello world!&#39;</span>
-</pre></div>
+Around night on 23rd it was! 
+<BR>
+My semester exams were going on and next day was exam of one of the toughest paper (MicroElectronics!).
+But I was not able to concentrate much as something big was on the line. 
+Opened the Google Summer of Code Website, there was the field where you could type your name and search. I typed my name as fast as I could. But wait! No results. (Believe me, the search field for name works only if you enter your name word by word and pause). Okay then, so let’s see who were selected in my community. Hang on…. My name was on top of that. What?? Is it real? Did they make mistake?? It took couple of minutes to sink in and I just kept on staring my name for few seconds. Just then, a G’Soc aspirant had become a G’Soc Student.
+<BR> <br>
+Now let's come to what the blog is about (:P). My journey is definitely not the ideal one. <br>
+<b>Firstly, I started a bit late. </b>A good G'Soc aspirant
+should start around December (Especially in India, when there are winter holidays during this time). So I had to pay some price in this regard: 
+<font size = "5px">
+ <li> There were literally nightouts everyday and stress (I should admit!)</li>
+ <li> Sometimes, it became to an extent that next day I was having quiz and the day before I was working on my proposal.</li>
+ So a golden advice me from is to <font color="green"><b>start early.</b></font>
+ <br><br>
+    <b>Secondly, Submit your proposal early.</b> It should be given a thought that G'Soc results for a particular student are only decided upon the proposal you submit and nothing else. (Yes!)
+    But sometimes student make it a PR compition and focus less on quality of the proposal. In my case, my main focus was to make my proposal as good as possible. When there are so many students applying for one spot, your proposal must stand out. 
+    And kudos to my mentors here! <i>Rajath, Paavini, Shreyansh and Buddhi gave many constructive comments </i>. This led to me making my proposal complete with Mocks, Flow Charts etc.
+<br>
+<BR><b>Choose a great community. </b> Trust me when someone would be making a list of most active and helping open source communities present out there, Systers would be right there. You just ask some question in a channel, in no time the thread would become 10-15 comments long. I myself was no pro in open sorce stuff. But thanks great people here, who helped me a lot at various stages of the proposal.
+<br><br>
+<b>What would I be working on?</b> Well I would be contributing to a web app that would help teach prevention tips to Peace Corps volunteers in fighting malaria in their remote missions. We have already some games built. This time I would increase the no. of games. Also we have a chatbot AI that currently recommends medicines and interacts with people. Our aim would be to upgrade it and handle user requests well. <br><br>
+  It's going to be a great journey and can't wait to do my first commit. :D
+<br><br> 

@@ -4,17 +4,19 @@ layout: default
 <link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
 <article itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
 
-  <header class="section-padding--lg mast rellax" data-rellax-speed="-4">
+  <header class="section-padding--lg mast rellax" data-rellax-speed="-4" >
     <a class="nav nav--white" href="{{ site.baseurl }}/">
-      <i class="fa fa-lg fa-arrow-left"></i>
-      <span>Back to Posts</span>
+      <i class="fa fa-lg fa-arrow-left" style="color:#003333"></i>
+      <span style="color:#003333">Back to Posts</span>
     </a>
     <figure class="absolute-bg mast__img" style="background-image: url('{{ page.image }}');"></figure>
     <div class="mast__container">
-      <span><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time></span>
-      <h1 itemprop="name headline">{{ page.title }}</h1>
+      <span style="background-color: #003333; display: inline-block; width: max-content" ><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time></span>
+        <br>
+      <h1 itemprop="name headline" style="background-color: #003333; display: inline-block; width: fit-content; color: #66cccc">{{ page.title }}</h1>
       {% if page.categories.size > 0 %}
-        <span>Posted in 
+        <br>
+        <span style="background-color: #003333; display: inline-block; width: fit-content; color: #66cccc">Posted in
           {% for category in page.categories %}
             <a class="nav--white" href="{{ site.baseurl }}/category/{{ category | downcase | slugify }}">{{ category }}</a>{% if forloop.last == false %}, {% endif %}
           {% endfor %}

@@ -6,16 +6,16 @@ paginate_path: "/blog/page-:num"
 google_analytics: UA-118657683-1
 
 # SEO settings
-title: Speed's Spectrum
-description: Writeups of Mayank Lunayach
+title: Writeups of Mayank Lunayach
+description: Just sharing what interesting I do....
 url: "https://blog.mayankl.org"
 twitter_username: mayank_lunayach
-default_img: https://s3.envato.com/files/205262583/Light%20speed%20preview%20image.jpg
+default_img: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfAuhp2djVCR5qPapmmRVLLVBaqjrndrMDxuIWZIseKDD26JUF
 
 # Profile settings
 name: Mayank Lunayach
 profile_img: "/assets/images/me/1.jpg"
-profile: Mayank Lunayach was born in Jaipur, India . Currently, he is doing major in Electrical Engineering from Indian Institute of Technology, Kanpur. He's an open source developer and an AI enthusiast. He's decent at playing Cricket and can watch any kind of sports and even follow it.
+profile: Mayank Lunayach is from Jaipur, India . Currently, he is doing major in Electrical Engineering from Indian Institute of Technology, Kanpur. He's an open source developer and an AI enthusiast. He's decent at playing Cricket and can watch any kind of sports and even follow it.
 social:
   github: https://github.com/lunayach
   facebook: https://www.facebook.com/mayank.lunayach
