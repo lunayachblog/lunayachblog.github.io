@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Tales f̶r̶o̶m̶ to a G'SOC Journey"
+title: "Tales to a G'SOC Journey!"
 date: 2018-05-03
 categories:
-  - G'SOC 18
+  - G'SOC18
 description:
 image: "/assets/images/post1-1.png"
 image-sm: https://cdn.tproger.ru/wp-content/uploads/2018/01/summer-of-code-cover.jpg
