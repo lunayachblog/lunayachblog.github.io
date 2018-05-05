@@ -37,5 +37,5 @@ sass:
   style: compressed
 
 # Gems
-gems: [jekyll-paginate, jekyll-sitemap, octopress-autoprefixer, rouge]
-highlighter: rouge
+gems: [jekyll-paginate, jekyll-sitemap, octopress-autoprefixer]
+highlighter:
