@@ -3,7 +3,7 @@ layout: post
 title: "Tales to a GSoC Journey!"
 date: 2018-05-03
 categories:
-  - G'SOC18
+  - GSoC'18
 description:
 image: "/assets/images/post1-1.png"
 image-sm: https://cdn.tproger.ru/wp-content/uploads/2018/01/summer-of-code-cover.jpg
