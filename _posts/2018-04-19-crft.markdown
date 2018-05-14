@@ -19,9 +19,11 @@ Now let's come to what the blog is about (:P). My journey is definitely not the 
 <b>Firstly, I started a bit late. </b>An ideal GSoC aspirant
 should start very early (last by early December). I was in an internship and didn't prioritize it either. Hence, I had to pay some price in this regard: 
 <font size = "5px">
+
  <li> I literally pulled an all-nighter every night (I should admit!)</li>
  <li> Sometimes, it became to an extent that next day I was having quiz and the day before I was working on my proposal.</li>
- A golden advice me from is to <font color="green"><b>start as early as possible.</b></font>
+ A golden advice me from is to <font color="green"><b>start as early as possible.</b>
+ </font>
  <br><br>
     <b>Proposal is the main thing!</b> It should be given a thought that G'SOC results for a particular student are only decided upon the proposal you submit and nothing else (Yes!).
     But sometimes students make it a 'Pull Requests' (PR) competition and focus less on quality of the proposal. In my case, my main focus was to make my proposal as good as possible. When there are so many students applying for one spot, your proposal must stand out. 

@@ -1,0 +1,53 @@
+---
+layout: post
+title: "The awesome community bonding period"
+date: 2018-05-13
+categories:
+  - GSoC'18
+description:
+image: "/assets/images/post2-5.jpg"
+image-sm: https://cdn.tproger.ru/wp-content/uploads/2018/01/summer-of-code-cover.jpg
+---
+
+GSoC is all about contributing to open source and what makes open source special is the community. 
+<br>
+<br>
+I experienced the same with Systers. People here are just so awesome. Meanwhile, our GSoC admins had some great things in the bag for us. 
+<br>
+<br>
+
+<ul>
+<font size="5">
+<li>
+<b>Happy Hours</b>: Yes you read it right! We had very engaging informal meetings during these hours. From dogs to food, from places to names, we discussed them all :P.
+</li>
+<br>
+<li>
+<b> 1:1's with mentors: </b> Now this was a remarkable initiative by the mentors and the community. It is the team of mentors and students who would be converting that proposal into a live project. It is very necessary to develop a sense of familiarity and understanding between them. I had some great conversations with my mentors and gained a lot, hearing from those who are already there (both Industry and Research!). Great thing to note here that 2 of my mentors are previous year GSoC students.
+</li>
+<br>
+<li>
+<b>Playing sessions:
+</b>
+When I was writing my proposal, I could have never have thought that I'll be playing online games
+with people who would be reviewing my proposal. Till now all of us have played this <a href="https://en.boardgamearena.com/#!gamepanel?game=cantstop">game</a>, thrice.
+(I'm yet to win though :D)
+</li>
+<br>
+
+</font>
+</ul>
+
+<font size="5">
+Besides this, the period can be of great use for preparing yourself for the coding period. 
+You also learn things which you don't know beforehand, like frameworks, languages and your project architecture in general. 
+The timeline that we prepare during making the proposal is also not the final. Like in my case, we had a couple of meetings before the final timeline took shape.
+<br>
+That was it for the community bonding period. And the coding journey of GSoC begins....
+<br>
+<br>
+PS: In coming days, stay tuned for all the updates of my GSoC journey.
+</font> 
+
+
+
